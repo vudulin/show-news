@@ -1,0 +1,11 @@
+.tagList{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.tagItem{
+  margin-left: 10px !important;
+}
+.tagItem:first-child{
+  margin-left: 0 !important;
+}
